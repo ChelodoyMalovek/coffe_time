@@ -1,0 +1,330 @@
+body {
+  background: #f0bf46;
+  /*background: url(фон.PNG);*/
+}
+#boss {
+  width: 80%;
+  height: 200%;
+  /*background:#ffda7dc8;*/
+  margin: 0 auto;
+}
+#menu {
+  width: 100%;
+  height: 250px;
+  background: #ffd97aa3;
+}
+#menu img {
+  width: 15%;
+  padding: 20px 0 0 15px;
+  float: left;
+}
+#menu1 {
+  float: left;
+  padding: 100px 0 0 0;
+}
+#menu1 a {
+  font-family: Century Gothic;
+  font-size: 16pt;
+  text-decoration: none;
+  margin: 0 0 0 40px;
+  color: #000;
+}
+#menu1 a:hover {
+  color: #f01;
+}
+#img2 {
+  width: 20%;
+  height: 150px;
+  /*background: #f00;*/
+  float: left;
+}
+#img2 img {
+  width: 100%;
+}
+
+#content {
+  width: 100%;
+  height: 680px;
+  /*background: #fff;*/
+  margin: 10px 0 0 0;
+}
+#new1 {
+  width: 40%;
+  height: 45%;
+  border: 3px solid #000;
+  border-radius: 20px;
+  margin: 3% 0 0 7%;
+  background: #ffffff96;
+  float: left;
+}
+#new1 img {
+  width: 30%;
+  margin: 0 0 0 35%;
+}
+#new1 h2 {
+  font-family: cursive;
+  text-align: center;
+}
+
+#new1 p {
+  text-align: center;
+  font-size: 12pt;
+}
+#new1 button {
+  width: 40%;
+  height: 25px;
+  margin: 0 0 0 30%;
+  border-radius: 35px;
+  font-family: cursive;
+  background: #ffc800;
+  color: #f00;
+}
+#new1 button:hover {
+  background: #fff;
+  font-size: 13pt;
+  height: 27px;
+  width: 41%;
+  margin: 0 1% 0 29%;
+}
+
+#new2 {
+  width: 40%;
+  height: 45%;
+  border: 3px solid #000;
+  border-radius: 20px;
+  margin: 3% 0 0 7%;
+  background: #ffffff96;
+  float: left;
+}
+#new2 img {
+  width: 30%;
+  margin: 1% 0 0 35%;
+}
+#new2 h2 {
+  font-family: cursive;
+  text-align: center;
+}
+
+#new2 p {
+  text-align: center;
+  font-size: 12pt;
+}
+#new2 button {
+  width: 40%;
+  height: 25px;
+  margin: 0 0 0 30%;
+  border-radius: 35px;
+  font-family: cursive;
+  background: #ffc800;
+  color: #f00;
+}
+#new2 button:hover {
+  background: #fff;
+  font-size: 13pt;
+  height: 27px;
+  width: 41%;
+  margin: 0 1% 0 29%;
+}
+
+#new3 {
+  width: 40%;
+  height: 45%;
+  border: 3px solid #000;
+  border-radius: 20px;
+  margin: 3% 0 0 7%;
+  background: #ffffff96;
+  float: left;
+}
+#new3 img {
+  width: 24%;
+  margin: 1% 0 0 35%;
+}
+#new3 h2 {
+  font-family: cursive;
+  text-align: center;
+}
+
+#new3 p {
+  text-align: center;
+  font-size: 12pt;
+}
+#new3 button {
+  width: 40%;
+  height: 25px;
+  margin: 0 0 0 30%;
+  border-radius: 35px;
+  font-family: cursive;
+  background: #ffc800;
+  color: #f00;
+}
+#new3 button:hover {
+  background: #fff;
+  font-size: 13pt;
+  height: 27px;
+  width: 41%;
+  margin: 0 1% 0 29%;
+}
+
+#new4 {
+  width: 40%;
+  height: 45%;
+  border: 3px solid #000;
+  border-radius: 20px;
+  margin: 3% 0 0 7%;
+  background: #ffffff96;
+  float: left;
+}
+#new4 img {
+  width: 30%;
+  margin: 1% 0 0 35%;
+}
+#new4 h2 {
+  font-family: cursive;
+  text-align: center;
+}
+
+#new4 p {
+  text-align: center;
+  font-size: 12pt;
+}
+#new4 button {
+  width: 40%;
+  height: 25px;
+  margin: 0 0 0 30%;
+  border-radius: 35px;
+  font-family: cursive;
+  background: #ffc800;
+  color: #f00;
+}
+#new4 button:hover {
+  background: #fff;
+  font-size: 13pt;
+  height: 27px;
+  width: 41%;
+  margin: 0 1% 0 29%;
+}
+
+#social {
+  width: 100%;
+  height: 30%;
+  background: #ffd97aa3;
+}
+#social h6 {
+  font-size: 10pt;
+  text-align: center;
+  font-family: cursive;
+}
+#social1 {
+  width: 40%;
+  margin: 0 auto;
+}
+#social img {
+  width: 8%;
+  margin: 0 0 0 15%;
+}
+/********ВТОРАЯ страница*********/
+#form1 {
+  text-align: center;
+  background: #f5eab56f;
+  width: 60%;
+  height: 50%;
+  margin: 0 auto;
+  border-radius: 20px 50px;
+  color: #f00;
+  padding: 30px 30px 30px 30px;
+}
+#form1 h2 {
+  font-size: 15pt;
+  text-align: center;
+  font-family: cursive;
+}
+#form1 p {
+  font-size: 10pt;
+  text-align: center;
+  font-family: cursive;
+}
+#knpk {
+  width: 20%;
+  height: 30px;
+  background: #ffc800;
+  color: #f00;
+  border-radius: 20px;
+  margin: 0 0 0 5%;
+}
+#knop {
+  width: 35%;
+  height: 20px;
+}
+#form1 select {
+  width: 40%;
+  height: 20px;
+  border-radius: 20px;
+}
+/****************СДЕЛАТЬ ЗАКАЗ**************************-----------*/
+#opisanie {
+  width: 100%;
+  height: 20%;
+  /*background: #fff;*/
+}
+#opisanie h3 {
+  font-size: 20pt;
+  text-align: center;
+}
+/****ОТЗЫВЫ**************************************************------*/
+#content table {
+  border: 2px solid #000;
+  margin-top: 5%;
+  margin-left: 2%;
+  background: #ffffff96;
+}
+#content table img {
+  width: 10%;
+}
+#content td {
+  width: 10%;
+  border: 1px solid #000;
+}
+#instrycthia {
+  width: 100%;
+  height: 30%;
+  /*background: #fff;*/
+  text-align: left;
+  margin: 5% 0 0 3%;
+}
+#instrycthia h2 {
+  text-align: center;
+}
+#instrycthia p {
+  font-size: 15pt;
+  color: #000;
+}
+#textotzyv {
+  width: 80%;
+  height: 20%;
+  background: #fff;
+  margin: 0 0 0 10%;
+  color: #f00;
+}
+#otzyvSteret {
+  width: 6%;
+  height: 7%;
+  font-size: 11pt;
+  border-radius: 20px;
+  background: #ffc800;
+  color: #f00;
+  margin: 0 1% 0 10%;
+}
+#otzyvSteret:hover {
+  background: #fff;
+}
+#otzyvOtpravit {
+  width: 7%;
+  height: 7%;
+  font-size: 11pt;
+  border-radius: 20px;
+  background: #ffc800;
+  color: #f00;
+}
+#otzyvOtpravit:hover {
+  background: #fff;
+}
